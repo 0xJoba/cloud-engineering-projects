@@ -1,0 +1,56 @@
+# Day 4 – Get Hands-On with Cloud Networking! 🌐
+
+Welcome to Day 4 of my Cloud Engineering journey — today marks the beginning of networking in the cloud. This was a foundational step in understanding how secure, scalable environments are built on AWS.
+
+---
+
+## 🧠 What I Learned
+
+This project focused on **AWS networking basics** — the invisible architecture that supports everything we build in the cloud. I gained clarity on:
+
+- **What a VPC is**, and why it's core to cloud infrastructure
+- **The role of public vs private subnets**
+- How **routing tables** and **Internet Gateways** control traffic flow
+- Security boundaries using **NACLs** and **Security Groups**
+
+---
+
+## ⚙️ What I Built
+
+This was a no-code project, but essential in visualizing how cloud networks operate.
+
+- Explored the **default VPC** and its components
+- Understood **IP ranges**, **subnet masks**, and **CIDR blocks**
+- Broke down **NAT Gateways** and how they enable outbound internet access from private subnets
+- Used **AWS Console diagrams** to understand traffic flow and boundaries
+
+---
+
+## 🛠️ Tools Used
+
+- **AWS Console**
+- **VPC Dashboard**
+- **AWS Docs & NextWork guide**
+
+---
+
+## 📌 Reflections
+
+Even without deploying resources, this project was a key mental shift — understanding the “why” behind cloud security and traffic architecture. Knowing how cloud networks work is like understanding the plumbing before building the house.
+
+---
+
+## 🧵 Project Resource
+
+🔗 [NextWork Project: AWS Networks Intro](https://link.nextwork.org/projects/aws-networks-intro)
+
+---
+
+Let’s keep building.
+
+> – Joba  
+> [LinkedIn](https://www.linkedin.com/in/dvoice) | [GitHub](https://github.com/your-username)
+
+---
+
+#AWS #CloudNetworking #VPC #CloudEngineering #NextWork #BuildInPublic #LearningInPublic
