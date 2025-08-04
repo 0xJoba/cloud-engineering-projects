@@ -37,14 +37,8 @@ This project pushed me to think like a **cloud network architect**, balancing ac
 - Internet Gateway
 - VPC Flow Logs
 - Security Groups & NACLs
-
----
-
  
-
----
-
-This is more than theory — this is about architecting resilient, secure, and scalable networks in the cloud.
+ Still Learning . Walk with me.
 
 > – Joba  
 > [LinkedIn](https://www.linkedin.com/in/dvoice) | [GitHub](https://github.com/0xjoba)
