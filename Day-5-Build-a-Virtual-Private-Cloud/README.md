@@ -34,11 +34,7 @@ Unlike the default VPC, this project helped me understand how to set up and cont
 - **Security Groups & NACLs**
 - **NextWork Docs**
 
----
-
  
-
----
 
 This wasn’t just about clicking through — it was about *designing cloud networks* the way enterprise-grade systems do. Learning in public, one block at a time.
 
