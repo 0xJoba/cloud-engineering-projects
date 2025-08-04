@@ -36,8 +36,7 @@ Unlike the default VPC, this project helped me understand how to set up and cont
 
  
 
-This wasn’t just about clicking through — it was about *designing cloud networks* the way enterprise-grade systems do. Learning in public, one block at a time.
-
+ Still Learning . So walk with me
 > – Joba  
 > [LinkedIn](https://www.linkedin.com/in/dvoice) | [GitHub](https://github.com/0xjoba)
 
