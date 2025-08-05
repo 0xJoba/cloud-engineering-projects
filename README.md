@@ -1,110 +1,65 @@
-# ☁️ Cloud Engineering Projects – Journey with AWS
+ # ☁️ Cloud Engineering Projects – Powered by Practice
 
-Welcome to my cloud engineering portfolio — a practical log of my learning journey as I explore AWS and cloud infrastructure, one project at a time.
+Hi, I’m [Joba](https://www.linkedin.com/in/dvoice/) — a Cloud Engineering enthusiast actively learning and building infrastructure, one day at a time.
 
-📍 Guided by the [NextWork Cloud Engineering Roadmap], I'm working through real-world projects that demonstrate my ability to build, secure, and manage cloud-native infrastructure using modern tools and services.
-
-Along the way, I’ll also explore other trusted resources to deepen my expertise and apply what I learn in new ways.
-
----
-
-## 🚀 My Goals
-
-- Understand how core AWS services work in practice — not just theory
-- Learn how to architect, secure, and automate cloud infrastructure
-- Build a project portfolio that demonstrates my job readiness
-- Contribute to open-source and collaborate with other cloud engineers
-
----
-
-## 🛠️ Tools & Technologies I'm Using
-
-Throughout this journey, I’ll be working with a wide range of AWS tools and open-source technologies:
-
-### ☁️ Cloud & Infrastructure
-- **Amazon S3** (hosting static websites, storing datasets)
-- **Amazon EC2** (hosting apps and running secure compute environments)
-- **Amazon VPC** (custom networking, peering, and flow logging)
-- **Amazon RDS / Aurora (MySQL)** (relational database management)
-- **Amazon DynamoDB** (NoSQL database and querying at scale)
-- **Amazon CloudFront** (CDN and secure content delivery)
-
-### 🔐 Security & Identity
-- **AWS IAM** (identity, policies, and access control)
-- **AWS KMS** (encryption)
-- **Secrets Manager**
-- **GuardDuty** (threat detection)
-
-### 📊 Data & Visualization
-- **Amazon QuickSight** (dashboards and visual analytics)
-
-### ⚙️ Automation & DevOps
-- **AWS CLI** & **CloudShell**
-- **GitHub Actions**
-- **AWS CodeBuild / CodeDeploy**
-- **Terraform**
-- **AWS CDK**
-- **CloudFormation**
-
-### 🤖 AI & Serverless (Coming Soon)
-- **Amazon Lex**
-- **Amazon Bedrock**
-- **Lambda** + **API Gateway**
-
----
-
-## 📂 Project Structure
+This repository documents my **hands-on journey** through cloud computing, with a focus on solving real-world infrastructure problems using **AWS** and other cloud-native tools. It follows the [NextWork Cloud Engineer roadmap](https://www.nextwork.org/roadmaps/cloud-engineer), but also includes lessons from other industry resources.
 
 Each folder contains:
-- 📄 A dedicated `README.md` with steps taken, tools used, and lessons learned
-- 🖼️ Screenshots and architecture diagrams (where applicable)
-- 📁 Any supporting code, scripts, or configuration files
+- A specific project challenge
+- What I built
+- Why it matters in real-world environments
+- Documentation links for deeper insight
 
 ---
 
-## 📚 Projects So Far
+## 🚀 Projects By Day
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Day 1: S3 Static Website](./Day1-S3-Website/) | Hosted a static website on Amazon S3 | S3, HTML, CloudShell |
-| [Day 2: Visualize Data with QuickSight](./Day2-QuickSight/) | Used QuickSight to analyze Netflix data | S3, QuickSight, JSON |
-| [Day 3: DynamoDB Hands-On](./Day3-DynamoDB/) | Created and queried a DynamoDB table | DynamoDB, CLI |
-| [Day 4: IAM Security Policies](./Day4-IAM/) | Created IAM users, groups, policies | IAM, EC2, CLI |
-| … | _More coming soon_ | … |
+| Day | Project Title                                | Focus Area                         |
+|-----|-----------------------------------------------|-------------------------------------|
+| 1   | [Cloud Fundamentals](./day-1-cloud-fundamentals)               | IAM, Users, Policies               |
+| 2   | [Host a Website on S3](./day-2-s3-static-hosting)              | S3, Static Hosting, Buckets       |
+| 3   | [Route53 DNS Hosting](./day-3-dns-hosting-route53)             | DNS Management, Custom Domains    |
+| 4   | [Intro to Cloud Networking](./day-4-networking-intro)          | VPC Concepts, Network Basics      |
+| 5   | [Build a VPC](./day-5-build-a-vpc)                             | CIDR Blocks, Subnets, Route Tables|
+| 6   | [Traffic Flow & Security](./day-6-vpc-traffic-security)        | NACLs, Flow Logs, Access Control  |
+| 7   | [Creating a Private Subnet](./day-7-private-subnet)            | Isolation, Routing, Monitoring    |
+| 8   | [Launching EC2 in VPC](./day-8-launch-vpc-resources)           | EC2 Instances, Subnet Architecture|
+| 9   | [Testing VPC Connectivity](./day-9-testing-vpc-connectivity)   | Ping Tests, SSH, NACL Rules       |
+| 10  | [VPC Peering](./day-10-vpc-peering)                            | Cross-VPC Communication           |
+
+> 📌 New projects are added regularly as I progress.
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Amazon Web Services (AWS)**: S3, EC2, VPC, IAM, Route53, CloudWatch
+- **Infrastructure Design**: Private/Public Subnets, VPC Peering, NACLs
+- **Monitoring & Logs**: VPC Flow Logs, Security Analysis
+- **Security Best Practices**: Least Privilege Access, Network Isolation
+- **Documentation & Git**: Project-based README files for every task
+
+---
+
+## 📘 My Cloud Portfolio (auto-updating)
+
+You can explore all my projects in one place:
+🔗 [View Cloud Portfolio](https://learn.nextwork.org/eager_lavender_swift_alligator/portfolio)
 
 ---
 
 ## 💡 Why This Matters
 
-Cloud engineers don’t just “know AWS” — they understand how to apply it securely and efficiently in production environments. These projects reflect the practical, hands-on skills needed to thrive in real-world cloud roles.
+Companies don’t just need people who know AWS services — they need people who can use them **to build secure, scalable, production-grade systems**. That’s what I’m practicing here — one challenge at a time.
 
 ---
 
-## 🔗 Let's Connect
+## 👀 Let’s Connect
 
-I'm always open to collaborating or hearing feedback.
-
-📍[Connect with me on LinkedIn](https://www.linkedin.com/in/dvoice/)  
-🧠 Join me on this journey — one lab at a time.
-
----
-
-## 🙏 Special Thanks
-
-Shout-out to [NextWork](https://www.nextwork.org/roadmaps/cloud-engineer) for creating a roadmap that’s practical, well-structured, and beginner-friendly. I’ll also be adding insights and projects from other resources as I continue learning.
+- 🔗 [LinkedIn – DVoice (Joba)](https://www.linkedin.com/in/dvoice/)
+- 🧠 [NextWork Cloud Engineer Roadmap](https://www.nextwork.org/roadmaps/cloud-engineer)
+- 📫 Open to junior cloud roles, apprenticeships, and collaborative learning
 
 ---
 
-## 🧭 What’s Next?
-
-Next on my roadmap:  
-→ Virtual Private Cloud (VPC) setup, subnetting, and secure traffic flow.
-
-Stay tuned — I’m building in public.
-
----
-
-## 📌 Hashtags You’ll See in My Posts
-
-`#AWS #CloudEngineering #NextWork #LearningInPublic #BuildInPublic #TechForHire #CloudSecurity #IAM #Quicksight #S3 #DevOps`
-
+### ✨ Still Early. Still Building. Walk with Me.
