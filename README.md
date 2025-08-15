@@ -59,8 +59,9 @@ This repository demonstrates that skill, project by project.
 ---
 
 ## 👀 Connect with Me
-- **LinkedIn:** [Adedolapo (Joba) Amunigun]((https://www.linkedin.com/in/dvoice))  
-- **NextWork Cloud Engineer Roadmap:** [nextwork.org](https://www.nextwork.org/roadmaps/cloud-engineer)  
+- **LinkedIn:** [Adedolapo (Joba) Amunigun](https://www.linkedin.com/in/dvoice)
+- **NextWork Cloud Engineer Roadmap:** [nextwork.org](https://www.nextwork.org/roadmaps/cloud-engineer)
+- **Github Cloud Engineering Projects** [0xJoba](https://github.com/0xJoba/cloud-engineering-projects)
 - Open to **junior cloud roles, apprenticeships, and collaborative learning**  
 
 ✨ Still early. Still building. **Walk with me.**
